@@ -1,4 +1,5 @@
 lib/
 *.txt
 *.tsv
+*model.ser*
 
